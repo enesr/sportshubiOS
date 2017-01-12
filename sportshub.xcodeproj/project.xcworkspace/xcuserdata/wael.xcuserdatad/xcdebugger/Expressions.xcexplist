@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "RegViewController.viewDidLoad() -&gt; ():RegViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "RegViewController.countryController(Any, didSelect : EMCCountry) -&gt; ():RegViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "Bundle(for: EMCCountryPickerController.classForCoder())">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "RegViewController.prepare(for : UIStoryboardSegue, sender : Any?) -&gt; ():RegViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "segue.identifier">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
